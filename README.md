@@ -1,3 +1,9 @@
+# Own version
+
+Fork from [simple-uploader/vue-uploader@d7ae0f1](https://github.com/simple-uploader/vue-uploader/commit/d7ae0f197135124e1e03007ceff3035fc9d7402b), and
+
+- using `@zjffun/simple-uploader.js`
+
 # vue-simple-uploader  [![NPM Version][npm-image]][npm-url] [![NPM Downloads][downloads-image]][downloads-url] [![juejin likes][juejin-image]](juejin-url)
 
 > A Vue.js upload component powered by [simple-uploader.js](https://github.com/simple-uploader/Uploader)
